@@ -3,6 +3,7 @@ using someLib;
 
 namespace myTest
 {
+    //я закоммитил комментарий, моя гениальность не знает границ
     [TestClass]
     public class someTests
     {
